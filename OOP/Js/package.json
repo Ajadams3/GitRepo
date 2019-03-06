@@ -1,0 +1,14 @@
+{
+  "name": "someobject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SomeObject.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
